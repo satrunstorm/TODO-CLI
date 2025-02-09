@@ -1,0 +1,16 @@
+{
+    "id": 3,
+    "todo": [
+        {
+            "id": 1,
+            "description": "Buy groceries and cook dinner"
+        }
+    ],
+    "in-progress": [],
+    "done": [
+        {
+            "id": 3,
+            "description": "Write code"
+        }
+    ]
+}
